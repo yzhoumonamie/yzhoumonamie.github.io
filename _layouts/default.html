@@ -62,7 +62,9 @@ ga('send', 'pageview');
         <!-- Begin Menu -->
 
             <ul class="navbar-nav ml-auto">
-
+                {% if page.url == "/" %}
+                <li class="nav-item active">
+                {% endif %}
 
             </ul>
 
