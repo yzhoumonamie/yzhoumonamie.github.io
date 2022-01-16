@@ -1,9 +1,9 @@
 # Site
 name: "Yue's Blog"
 title: "Yue's Blog"
-description: "Adventure, life, Growth"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+description: "Adventure; Life; Growth"
+logo: 'assets/images/logoYuzu.jpg'
+favicon: 'assets/images/logoYuzu.jpg'
 baseurl: ''
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
