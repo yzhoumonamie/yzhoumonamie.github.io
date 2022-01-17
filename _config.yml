@@ -16,7 +16,8 @@ authors:
   Yuzu:
     name: Yuzu
     display_name: Yuzu
-    description: "A cat mom who likes travel and baking."
+    description: "A cat mom who loves travel and baking"
+    avatar: 'assets/images/logoYuzu.jpg'
   john:
     name: John
     display_name: John    
