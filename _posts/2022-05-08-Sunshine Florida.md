@@ -48,3 +48,6 @@ author: Yuzu
 
 ![Siesta Beach](/assets/images/Siesta Beach.jpg)
           *Siesta Beach*
+
+![粉色的Ringling](/assets/images/粉色的Ringling.jpg)
+          *粉色的Ringling*
