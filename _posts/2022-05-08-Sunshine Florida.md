@@ -51,3 +51,13 @@ author: Yuzu
 
 ![粉色的Ringling](/assets/images/粉色的Ringling.jpg)
           *粉色的Ringling*
+          
+![这家餐厅“真有钱”](/assets/images/这家餐厅“真有钱”.jpg)
+          *这家餐厅“真有钱”*       
+          
+![这又是什么树？](/assets/images/这又是什么树？.jpg)
+          *这又是什么树？*      
+          
+![奥兰多市中心的天鹅湖](/assets/images/奥兰多市中心的天鹅湖.jpg)
+          *奥兰多市中心的天鹅湖*            
+          
